@@ -17,7 +17,7 @@ function sayHiToGrandma(string){
  else if(string == toUpperCase){
    
 }
-else(if string = ){
-  
+else if(string == "I love you, Grandma." ){
+  return ""
 }
 }
